@@ -1,4 +1,9 @@
-% 06 28 2018: Change in UTEC logo: using EPS and confirmed logo + change on the top: ".... TECNOLOGÍA - UTEC"
+%
+% LaTeX Document Class File for UTEC thesis format.
+% Created by Victor Murray in collaboration with Oscar Ramos and Juan Carlos Barbaran.
+% June, 2021
+%
+%
 
 \NeedsTeXFormat{LaTeX2e}[1996/12/01]
 \ProvidesClass{tesisutec}[2017/05/03 v1.0 LaTeX document class]
