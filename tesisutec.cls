@@ -256,7 +256,7 @@
     %\vskip 60\p@
     \begin{center}
       \setlength{\parskip}{0pt}
-      \vspace{-0.5cm}
+      \vspace{-1.5cm}
       {\Large \textbf{UNIVERSIDAD DE INGENIERÍA Y TECNOLOGÍA}\par}
       \vspace{0.5cm}
       {\Large {CARRERA DE \deptname }\par}
